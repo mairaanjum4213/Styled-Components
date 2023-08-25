@@ -1,0 +1,11 @@
+@font-face{
+    font-family: helo;
+    src : url(../public/VT323-Regular.ttf);
+}
+
+
+*{
+    font-family :helo;
+}
+
+
